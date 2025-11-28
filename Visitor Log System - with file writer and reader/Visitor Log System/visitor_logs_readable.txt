@@ -1,0 +1,14 @@
+Visitor #1
+  Name: Jane Doe
+  Contact: 555-0001
+  Host Office: Office X
+  Purpose: Meeting
+  Campus Area: Main Campus
+  Guard: Ramon Manalo - Main Gate (Day)
+  Admin: Adrian Bencila - Office of Student Affairs (Director)
+  Admin Status: PENDING
+  Admin Notes:
+    (none)
+  Check-In: 2025-11-27T08:54:55.597502
+  Check-Out: 
+----
